@@ -1,5 +1,5 @@
 # thoughtcoding-web-train-of-xuchenmiao
-#第一周学习计划
+# 第一周学习计划
 1.注册Github账号
 <br/>
 2.学习使用MarkDown语法并在README.md文件里写上自己的本周学习规划
